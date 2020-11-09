@@ -1,0 +1,71 @@
+/* @CHARSET "UTF-8"; */
+/*!
+ * Copyright (c) 2019 Eclipse Foundation, Inc.
+ * 
+ * This program and the accompanying materials are made available under the
+ * terms of the Eclipse Public License v. 2.0 which is available at
+ * http://www.eclipse.org/legal/epl-2.0.
+ * 
+ * Contributors:
+ *   Christopher Guindon <chris.guindon@eclipse-foundation.org>
+ * 
+ * SPDX-License-Identifier: EPL-2.0
+*/
+
+@import '~eclipsefdn-solstice-assets/less/quicksilver/styles.less';
+@import '_variables.less';
+
+
+// Event templates (Default)
+.featured-section-row {
+  font-size:1.1em;
+  h2 {
+    text-align:center;
+  }
+  h1, h2, h3, h4 {
+   font-weight: 500;
+  }
+}
+
+.header-default-event, 
+.featured-section-row-dark-bg{
+  background-image: url('images/default/header.jpg');
+  background-size: cover;
+}
+
+.header-default-event {
+  .list-inline {
+    margin:20px 0 0 0;
+  }
+}
+
+
+.featured-section-container-notes {
+  font-size:12px;
+  p {
+    margin-bottom:5px;
+  }
+  ul {
+    .list-inline;
+  }
+  p, li {
+    font-size:12px;
+  }
+  a {
+    font-weight:bold;
+  }
+}
+
+.featured-section-row-dark-bg {
+  .featured-section-container-notes{
+    p, li {
+     color:#bdbdbd;
+    }
+    a {
+      color:#fff;
+      &:hover {
+        color:#fff;
+      }
+    }
+  }
+}
