@@ -14,7 +14,8 @@ buildFuture = true # A new event website will always be in the future
   description = "Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized and presented by OW2 and the Eclipse Foundation, they will focus on how multinational partners leverage open source in European publicly-funded collaborative research and innovation programs."
   seo_title_suffix = " | The Eclipse Foundation"
   keywords = ["research event", "Open Research Webinars"]
-# logo = ""
+  logo = "images/logo/eclipse-research-horizontal.png"
+  secondLogo = "images/logo/ow2.png"
   styles = "css/styles.css"
 # favicon = ""
 # share_img = ""
@@ -41,17 +42,17 @@ buildFuture = true # A new event website will always be in the future
   plainIDAnchors = true
   hrefTargetBlank = true
 
-[[menu.main]]
-    name = "Projects"
-    url = "https://www.eclipse.org/projects/"
-    weight = 1
+# [[menu.main]]
+#     name = "Projects"
+#     url = "https://www.eclipse.org/projects/"
+#     weight = 1
 
-[[menu.main]]
-    name = "Working Groups"
-    url = "https://www.eclipse.org/org/workinggroups/"
-    weight = 2
+# [[menu.main]]
+#     name = "Working Groups"
+#     url = "https://www.eclipse.org/org/workinggroups/"
+#     weight = 2
 
-[[menu.main]]
-    name = "Members"
-    url = "https://www.eclipse.org/membership/"
-    weight = 3
+# [[menu.main]]
+#     name = "Members"
+#     url = "https://www.eclipse.org/membership/"
+#     weight = 3

@@ -1,0 +1,55 @@
+<!-- 
+  Copyright (c) 2018 Eclipse Foundation, Inc.
+  This program and the accompanying materials are made available under the
+  terms of the Eclipse Public License v. 2.0 which is available at
+  http://www.eclipse.org/legal/epl-2.0.
+  Contributors:
+    Christopher Guindon <chris.guindon@eclipse-foundation.org>
+  SPDX-License-Identifier: EPL-2.0
+-->
+
+<div class="clearfix toolbar-container-wrapper">
+    <div class="container">
+      <div class="text-right toolbar-row row hidden-print">
+        <div class="col-md-24 row-toolbar-col">
+          <ul class="list-inline">
+            <li><a class="toolbar-link toolbar-manage-cookies dropdown-toggle"><i class="fa fa-wrench"></i> {{ i18n "navbar-manage-cookies-label" }}</a></li>
+            {{ if gt (len .AllTranslations) 1 }}
+            <li class="language-selector dropdown">
+              <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+                <i class="fa fa-globe"></i>
+                <span> {{ .Language.LanguageName }}</span>
+                <b class="caret"></b>
+              </a>
+              <ul class="dropdown-menu">
+                {{ range .AllTranslations }}
+                <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                {{ end }}
+              </ul>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+</div>
+<div class="{{ $.Site.Params.navbar_wrapper_classes | default "navbar-wrapper" }}">
+    <div class="container">
+      <div class="row" id="header-row">
+        <div class="{{ $.Site.Params.header_left_classes | default "col-sm-5 col-md-4" }}" id="header-left">
+            {{- with .Page.Params.logo | default .Site.Params.logo | default "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg" }}
+              <a title="{{ $.Site.Title }}" href="{{ "" | absLangURL }}">
+                <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "140"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
+              </a>
+            {{ end }}
+        </div>
+        <div class="{{ $.Site.Params.header_right_classes | default "col-sm-5 col-md-4" }}" id="header-right">
+            {{- with .Page.Params.secondLogo | default .Site.Params.secondLogo | default "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg" }}
+                <a title="{{ $.Site.Title }}" href="{{ "" | absLangURL }}">
+                  <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "120"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
+                </a>
+            {{ end }}
+        </div>
+      </div>
+    </div>
+</div>
