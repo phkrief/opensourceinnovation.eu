@@ -32,24 +32,19 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 {{< grid/section-container id="organizing-committee" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
 
-## Organizing Committee 
-
-### Publicity  
-Susan Iwai, Eclipse Foundation 
+## Co-organized by: 
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="organizing-orgs" class="featured-section-row featured-section-row-lighter-bg text-center">}}
 {{< grid/div class="row" isMarkdown="false">}}
 
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  #### **Co-organized by:**
   
   [![Eclipse Research](images/eclipse_logo.png)](http://eclipse.org/research)
 {{</ grid/div >}}
  
 
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  #### **Co-organized by:**
   
   [![OW2](images/ow2.png)](https://www.ow2.org/)
 {{</ grid/div >}}
