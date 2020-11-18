@@ -2,8 +2,8 @@
 title: "Open Research Webinars"
 headline: "Open Research Webinars"
 subtitle: "Open collaboration in European research projects"
-tagline: "Series Launch: Thursday, March 4, 2020, 16:00-17:00 CET"
-date: 2020-12-15T16:00:00+02:00
+tagline: "Series Launch: Thursday, March 4, 2021, 16:00-17:00 CET"
+date: 2021-03-04T16:00:00+02:00
 hide_page_title: true
 hide_sidebar: true
 header_wrapper_class: "header-default-event header-open-research-europe-event"
@@ -14,7 +14,7 @@ links: [[href: "#speakers", text: Speakers"], [href: "#agenda", text: Agenda"]]
 ---
 
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}
-  {{< events/registration event="open-research-webinars" year="2020" title="About the Event" >}} 
+  {{< events/registration event="open-research-webinars" year="2021" title="About the Event" >}} 
 
 Join us for the launch of Open Research Webinars on Thursday, March 4, 2021 at 16:00 CET. 
 
@@ -23,7 +23,7 @@ Through a selection of state-of-the-art project presentations and demonstrations
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
-  {{< events/user_display event="open-research-webinars" year="2020" title="Speakers" source="speakers" imageRoot="/2021/march/images/speakers/" />}}
+  {{< events/user_display event="open-research-webinars" year="2021" title="Speakers" source="speakers" imageRoot="/2021/march/images/speakers/" />}}
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="agenda" class="featured-section-row featured-section-row-light-bg" title="Agenda">}}

@@ -1,29 +1,23 @@
 complete: false
 types:
-    - name: Keynote 
-      id: keynote 
-      color: "#f79623"
     - name: Session
       id: session
       color: "#8d1d2d4"
-    - name: Panel
-      id: panel
-      color: "#818285"
 
 items:
-    - name: This is fake content
-      presenter: Gaël Blondelle
-      type: keynote
-      time: 09:00 - 09:10 (CEST)
-    - name: "This is fake content"
-      presenter: Gaël Blondelle
-      type: panel
-      time: 09:10 - 09:20 (CEST)
-    - name: This is fake content
-      presenter: FirstName LastName
+    - name: "Introduction"
+      presenter: Cédric Thomas
       type: session
-      time: 09:20 - 10:15 (CEST)
-    - name: "This is fake content"
-      presenter: FirstName LastName
+      time: 16:00 - 16:15 (CEST)
+    - name: "Research Project A to defined"
+      presenter: Presenter A
       type: session
-      time: 10:15 - 10:45 (CEST) 
+      time: 16:15 - 16:35 (CEST)
+    - name: "Research Project B to defined"
+      presenter: Presenter B
+      type: session
+      time: 16:35 - 16:55 (CEST)
+    - name: "Wrap up"
+      presenter: Philippe Krief
+      type: session
+      time: 16:55 - 17:00 (CEST)

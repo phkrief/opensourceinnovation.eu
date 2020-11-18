@@ -10,7 +10,7 @@ header_wrapper_class: "header-default-event header-open-research-europe-event"
 hide_breadcrumb: true
 container: container-fluid
 summary: "Open Research Webinars is a series presenting software research projects that are helping to shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs."
-links: [[href: "#speakers", text: Speakers"], [href: "#agenda", text: Agenda"]]
+links: [[href: "#speakers", text: Speakers], [href: "#agenda", text: Agenda]]
 ---
 
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}

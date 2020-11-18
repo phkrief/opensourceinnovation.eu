@@ -11,7 +11,17 @@ items:
   - name: "Sebastian Scholze"
     title: "Senior Researcher (ATB)"
     img: Sebastian_bussines.jpg
+    anchor: sebastian-scholze
+    bio:
+
     
   - name: "Virgile Prevosto"
     title: "Researcher (CEA List)"
     img: Virgile_Prevosto_YtBEhnz.jpg
+    anchor: virgile-prevost
+    bio: |
+      <p>Virgile Prevosto is researcher at CEA List. He holds an Engineering degree from École Polytechnique
+      and a PhD in CS from Université Paris 6. After a post-doc at Max-Planck Institute for Informatics in 
+      Saarbrücken and a stay at Inria Rocquencourt, he joined CEA List in 2006, and has been since then a 
+      core developer of the Frama-C platform and acted as CEA's principal investigator for various collaborative 
+      projects, including the coordination of the French-German DEVICE-Soft and ANR U3CAT projects.</p>
