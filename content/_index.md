@@ -9,6 +9,13 @@ hide_sidebar: true
 container: container-fluid
 ---
 
+{{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}
+  {{< events/registration event="open-research-webinars" year="2020" title="About the Webinars" >}} 
+
+Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
+
+{{</ grid/section-container >}}
+
 {{< active-events >}}
 
 {{< past_events >}}

@@ -1,11 +1,17 @@
 complete: false
 types:
+    - name: Keynote 
+      id: keynote 
+      color: "#f79623"
     - name: Session
       id: session
       color: "#8d1d2d4"
+    - name: Panel
+      id: panel
+      color: "#818285"
 
 items:
-    - name: To be completed
+    - name: This is fake content
       presenter: Gaël Blondelle
       type: keynote
       time: 09:00 - 09:10 (CEST)
