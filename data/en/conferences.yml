@@ -9,3 +9,12 @@ items:
     # logo_white: /images/jakartaone_livestream_wht_full-06.svg
     # logo_color: /images/jakarta_one_logo.png
     icon: fa fa-rocket
+  -
+    name: Open Research Webinars
+    location: Location, Location
+    date: March 4, 2021
+    end_date: 2021-03-05T00:00:00-00:00
+    url: /2020/december
+    # logo_white: /images/jakartaone_livestream_wht_full-06.svg
+    # logo_color: /images/jakarta_one_logo.png
+    icon: fa fa-rocket
