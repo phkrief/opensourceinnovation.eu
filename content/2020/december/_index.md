@@ -34,16 +34,6 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 ## Organizing Committee 
 
-The Eclipse Foundation is pleased to be cooperating on this event with the LINKS Foundation.  
-
-### General Chairs
-
-Philippe Krief, Eclipse Foundation \
-Enrico Ferrera, LINKS Foundation
-
-### Program Committee Chair
-Rosaria Rossini, LINKS Foundation 
-
 ### Publicity  
 Susan Iwai, Eclipse Foundation 
 {{</ grid/section-container >}}
@@ -57,16 +47,11 @@ Susan Iwai, Eclipse Foundation
   [![Eclipse Research](images/eclipse_logo.png)](http://eclipse.org/research)
 {{</ grid/div >}}
  
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  #### **Supported by:**
-
-  [![European Security and Privacy Projects](images/IoT_ESP_Small.png)](https://www.ngiot.eu/community/iot-esp-projects)
-{{</ grid/div >}}
 
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
   #### **Co-organized by:**
   
-  [![LINKS Foundation](images/links_foundation_logo.png)](https://linksfoundation.com/)
+  [![OW2](images/ow2.png)](https://www.ow2.org/)
 {{</ grid/div >}}
 
 {{</ grid/div >}}
