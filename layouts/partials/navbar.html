@@ -46,7 +46,7 @@
         <div class="{{ $.Site.Params.header_right_classes | default "col-sm-5 col-md-4" }}" id="header-right">
             {{- with .Page.Params.secondLogo | default .Site.Params.secondLogo | default "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg" }}
                 <a title="{{ $.Site.Title }}" href="{{ "" | absLangURL }}">
-                  <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "120"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
+                  <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "140"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
                 </a>
             {{ end }}
         </div>
