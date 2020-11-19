@@ -29,14 +29,14 @@ buildFuture = true # A new event website will always be in the future
 [taxonomies]
 
 [Author]
-  name = "Philippe Krief"
-  website = "https://opensourceinnovation.eu"
+  name = "Philippe Krief
+  website = "https://opensourceinnovation.eu/"
   email = "webdev@eclipse-foundation.org"
-  facebook = 
-  twitter = 
-  youtube = 
-  googleplus = 
-  linkedin = 
+#  facebook = "eclipse.org"
+#  twitter = "EclipseFdn"
+#  youtube = "EclipseFdn"
+#  googleplus = "+Eclipse"
+#  linkedin = "company/eclipse-foundation/"
 
 [permalinks]
   news = "/:sections/:year/:month/:day/:slug/"
