@@ -29,7 +29,7 @@ buildFuture = true # A new event website will always be in the future
 [taxonomies]
 
 [Author]
-  name = "Philippe Krief
+  name = "Philippe Krief"
   website = "https://opensourceinnovation.eu/"
   email = "webdev@eclipse-foundation.org"
 #  facebook = "eclipse.org"
