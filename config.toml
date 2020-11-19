@@ -12,13 +12,13 @@ buildFuture = true # A new event website will always be in the future
 [Params]
   google_tag_manager = "GTM-5WLCZXC"
   description = "Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized and presented by OW2 and the Eclipse Foundation, they will focus on how multinational partners leverage open source in European publicly-funded collaborative research and innovation programs."
-  seo_title_suffix = " | The Eclipse Foundation"
+  seo_title_suffix = " | Open Research Webinars"
   keywords = ["research event", "Open Research Webinars"]
   logo = "images/logo/Eclipse-Research-Logo-Stacked-Grey.jpg"
   #secondLogo = "images/logo/ow2.png"
   secondLogo = "images/logo/ow2-logo-square.png"
   logo_width = 100
-  tagline = "Open Collaboration in European Research Projects"
+  #tagline = "Open Collaboration in European Research Projects"
   styles = "css/styles.css"
 # favicon = ""
 # share_img = ""
