@@ -11,7 +11,11 @@
       <div class="event-item flex-column">
         <h3 class="h2">{{ if .icon }}<i class="{{ .icon }} margin-right-10" aria-hidden="true"></i>{{ end }}{{ .name }}</h3>
         <p class="flex-grow">{{ .date }}</p>
-        <a class="btn btn-primary" href="{{ .url }}" title="{{ i18n "upcoming-events-learn-more-title" }} {{ .name }}">Learn more</a>
+        {{ if .url }}
+          <a class="btn btn-primary" href="{{ .url }}" title="{{ i18n "upcoming-events-learn-more-title" }} {{ .name }}">Learn more</a>
+        {{ else }}
+           <p class="flex-grow">Coming soon</p>
+        {{ end }}
       </div>
     </div>
     {{ end }}
