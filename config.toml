@@ -18,7 +18,6 @@ buildFuture = true # A new event website will always be in the future
   #secondLogo = "images/logo/ow2.png"
   secondLogo = "images/logo/ow2-logo-square.png"
   logo_width = 100
-  #tagline = "Open Collaboration in European Research Projects"
   styles = "css/styles.css"
 # favicon = ""
 # share_img = ""
