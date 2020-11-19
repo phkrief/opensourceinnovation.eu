@@ -40,11 +40,7 @@
             {{- with .Page.Params.logo | default .Site.Params.logo | default "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg" }}
               <a title="{{ $.Site.Title }}" href="{{ "" | absLangURL }}">
                 <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "140"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
-               <!--  {{ if gt (len .Page.Params.tagline) 1 }}
-                  <h3>.Page.Params.tagline</h3>
-                {{ end }}
-                 -->
-                  <h3>{{ .Page.Params.tagline }}</h3>
+                <h3>{{ .Page.Params.tagline }}</h3>
               </a>
             {{ end }}
         </div>
