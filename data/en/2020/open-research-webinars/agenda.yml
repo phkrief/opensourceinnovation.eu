@@ -6,11 +6,18 @@ items:
       presenter: Cédric Thomas and Philippe Krief
       type: session
       time: 16:00 - 16:20 (CEST)
-    - name: "SmartCLIDE project"
+    - name: "SmartCLIDE project, The Stairway to Cloud"
       presenter: Sebastian Scholze
       type: session
       time: 16:20 - 16:40 (CEST)
-    - name: "DECODER project"
+    - name: "ReachOut, the Beta-Testing Platform for Collaborative Research Projects"
       presenter: Virgile Prevosto
       type: session
       time: 16:40 - 17:00 (CEST)
+      abstract: |
+             <p>ReachOut is an H2020 Coordination and Support Action (CSA), aiming at 
+             helping research projects or European SMEs to develop connections with their 
+             markets and potential end users. ReachOut provides a BetaCenter platform and 
+             methodology to help projects create and implement their beta-testing campaigns, 
+             collect user feedback and develop their ecosystem. This presentation will give 
+             you an overview of the ReachOut project, and present the BetaCenter.</p>
