@@ -38,15 +38,15 @@
       <div class="row" id="header-row">
         <div class="{{ $.Site.Params.header_left_classes | default "col-sm-5 col-md-4" }}" id="header-left">
             {{- with .Page.Params.logo | default .Site.Params.logo | default "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg" }}
-              <a title="{{ $.Site.Title }}" href="{{ "" | absLangURL }}">
-                <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "140"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
+              <a title="{{ $.Page.Params.logo_left_title | default $.Site.Params.logo_left_title | default $.Site.Title }}" href="{{ "" | absLangURL }}">
+                <img width="{{ $.Page.Params.logo_left_width | default $.Site.Params.logo_left_width | default "140"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Page.Params.logo_left_title | default $.Site.Params.logo_left_title | default $.Site.Title }}" />
               </a>
             {{ end }}
         </div>
         <div class="{{ $.Site.Params.header_right_classes | default "col-sm-5 col-md-4" }}" id="header-right">
             {{- with .Page.Params.secondLogo | default .Site.Params.secondLogo | default "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg" }}
-                <a title="{{ $.Site.Title }}" href="{{ "" | absLangURL }}">
-                  <img width="{{ $.Page.Params.logo_width | default $.Site.Params.logo_width | default "120"}}" class="logo-eclipse-default img-responsive" src="{{ . | absURL }}" alt="{{ $.Site.Title }}" />
+                <a title="{{ $.Page.Params.logo_right_title | default $.Site.Params.logo_right_title | default $.Site.Title }}" href="{{ "" | absLangURL }}">
+                  <img width="{{ $.Page.Params.logo_right_width | default $.Site.Params.logo_right_width | default "120"}}" class="logo-eclipse-default img-responsive header-right" src="{{ . | absURL }}" alt="{{ $.Page.Params.logo_right_title | default $.Site.Params.logo_right_title | default $.Site.Title }}" />
                 </a>
             {{ end }}
         </div>
