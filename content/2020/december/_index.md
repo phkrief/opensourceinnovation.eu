@@ -55,3 +55,5 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 {{</ grid/div >}}
 {{</ grid/section-container >}}
+
+{{< bootstrap/modal id="eclipsefdn-modal-event-session" >}}
