@@ -1,5 +1,26 @@
 items:
     
-  - name: "Gaël Blondelle"
-    title: "VP Ecosystem Development (Eclipse Foundation)"
-    img: gael_blondelle.jpg
+  - name: "Philippe Krief"
+    title: "Research Relations Director (Eclipse Foundation)"
+    img: 2020-11-PK-ID.jpeg
+    
+  - name: "Cédric Thomas"
+    title: "CEO (OW2)"
+    img: cedric-thomas.320x320px.jpg
+    
+  - name: "Sebastian Scholze"
+    title: "Senior Researcher (ATB)"
+    img: Sebastian_bussines.jpg
+    anchor: sebastian-scholze
+    bio:
+
+  - name: "Alexandre Lefebvre"
+    title: "Project Manager (UShareSoft)"
+    img: Alexandre_Lefebvre.jpg
+    anchor: alexandre_lefebvre
+    bio: |
+      <p>Alexandre Lefebvre is project manager at UShareSoft. He has been involved
+      in professional services and development of UShareSoft software products since 
+      2013. Prior to joining UShareSoft, he had several management and research positions 
+      at Orange Labs in distributed middleware, and has been involved in several collaborative 
+      research projects. He represents UShareSoft in the ReachOut project.</p>

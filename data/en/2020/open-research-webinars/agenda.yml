@@ -1,29 +1,23 @@
 complete: false
 types:
-    - name: Keynote 
-      id: keynote 
-      color: "#f79623"
-    - name: Session
-      id: session
-      color: "#8d1d2d4"
-    - name: Panel
-      id: panel
-      color: "#818285"
 
 items:
-    - name: This is fake content
-      presenter: Gaël Blondelle
-      type: keynote
-      time: 09:00 - 09:10 (CEST)
-    - name: "This is fake content"
-      presenter: Gaël Blondelle
-      type: panel
-      time: 09:10 - 09:20 (CEST)
-    - name: This is fake content
-      presenter: FirstName LastName
+    - name: "Open Research at Ow2 and the Eclipse Foundation"
+      presenter: Cédric Thomas and Philippe Krief
       type: session
-      time: 09:20 - 10:15 (CEST)
-    - name: "This is fake content"
-      presenter: FirstName LastName
+      time: 16:00 - 16:20 (CEST)
+    - name: "SmartCLIDE project, The Stairway to Cloud"
+      presenter: Sebastian Scholze
       type: session
-      time: 10:15 - 10:45 (CEST) 
+      time: 16:20 - 16:40 (CEST)
+    - name: "ReachOut, the Beta-Testing Platform for Collaborative Research Projects"
+      presenter: Alexandre Lefebvre
+      type: session
+      time: 16:40 - 17:00 (CEST)
+      abstract: |
+             <p>ReachOut is an H2020 Coordination and Support Action (CSA), aiming at 
+             helping research projects or European SMEs to develop connections with their 
+             markets and potential end users. ReachOut provides a BetaCenter platform and 
+             methodology to help projects create and implement their beta-testing campaigns, 
+             collect user feedback and develop their ecosystem. This presentation will give 
+             you an overview of the ReachOut project, and present the BetaCenter.</p>
