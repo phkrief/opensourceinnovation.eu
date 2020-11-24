@@ -28,7 +28,6 @@ buildFuture = true # A new event website will always be in the future
   gcse = "011805775785170369411:p3ec0igo0qq"
   js = "js/solstice.js?v1"
   featured_content_publish_target = "eclipse_org"
-# Christopher Guindon - TESTING  
   logo_left_width = 250
   logo_right_width = 150
 
