@@ -10,4 +10,8 @@ toc: false
 draft: false
 ---
 
+<<<<<<< Upstream, based on github.com/EclipseFdn/opensourceinnovation.eu.git/main
 {{< events/user_bios event="december" year="2020" source="speakers" imgRoot="/2020/december/images/speakers/" >}}
+=======
+{{< events/user_bios event="open-research-webinars" year="2020" source="speakers" imgRoot="/2020/december/images/speakers/" >}}
+>>>>>>> f89236b Activated the BIO page-2
