@@ -7,7 +7,7 @@ items:
       type: session
       time: 16:00 - 16:20 (CEST)
     - name: "SmartCLIDE project, The Stairway to Cloud"
-      presenter: <a href="speakers/#sebastian_sholze">Sebastian Scholze</a>
+      presenter: <a href="speakers/#sebastian_scholze">Sebastian Scholze</a>
       type: session
       time: 16:20 - 16:40 (CEST)
       abstract: |
