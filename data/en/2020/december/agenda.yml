@@ -3,11 +3,11 @@ types:
 
 items:
     - name: "Open Research at Ow2 and the Eclipse Foundation"
-      presenter: Cédric Thomas and Philippe Krief
+      presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a> and <a href="speakers/#philippe_krief">Philippe Krief</a>
       type: session
       time: 16:00 - 16:20 (CEST)
     - name: "SmartCLIDE project, The Stairway to Cloud"
-      presenter: Sebastian Scholze
+      presenter: <a href="speakers/#sebastian_sholze">Sebastian Scholze</a>
       type: session
       time: 16:20 - 16:40 (CEST)
       abstract: |
@@ -28,7 +28,7 @@ items:
              to Public Administration and three different IoT and Big Data products of software development 
              SMEs within the consortium.</p>
     - name: "ReachOut, the Beta-Testing Platform for Collaborative Research Projects"
-      presenter: Alexandre Lefebvre
+      presenter: <a href="speakers/#alexandre_lefebvre">Alexandre Lefebvre</a>
       type: session
       time: 16:40 - 17:00 (CEST)
       abstract: |
