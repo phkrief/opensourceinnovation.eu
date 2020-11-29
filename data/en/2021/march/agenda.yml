@@ -1,8 +1,5 @@
 complete: false
 types:
-    - name: Session
-      id: session
-      color: "#8d1d2d4"
 
 items:
     - name: "Introduction"

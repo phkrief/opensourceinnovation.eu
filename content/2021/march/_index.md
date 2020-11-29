@@ -2,7 +2,7 @@
 title: "Open Research Webinars"
 headline: "Open Research Webinars"
 subtitle: "Open collaboration in European research projects"
-tagline: "Series Launch: Thursday, March 4, 2021, 16:00-17:00 CET"
+tagline: "Series Launch: Tuesday, March 4, 2021, 16:00-17:00 CET"
 date: 2021-03-04T16:00:00+02:00
 hide_page_title: true
 hide_sidebar: true
@@ -11,10 +11,11 @@ hide_breadcrumb: true
 container: container-fluid
 summary: "Open Research Webinars is a series presenting software research projects that are helping to shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs."
 links: [[href: "#speakers", text: Speakers], [href: "#agenda", text: Agenda]]
+layout: single
 ---
 
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}
-  {{< events/registration event="open-research-webinars" year="2021" title="About the Event" >}} 
+  {{< events/registration event="march" year="2021" title="About the Event" >}} 
 
 Join us for the launch of Open Research Webinars on Thursday, March 4, 2021 at 16:00 CET. 
 
@@ -23,11 +24,11 @@ Through a selection of state-of-the-art project presentations and demonstrations
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
-  {{< events/user_display event="open-research-webinars" year="2021" title="Speakers" source="speakers" imageRoot="/2021/march/images/speakers/" />}}
+  {{< events/user_display event="march" year="2021" title="Speakers" source="speakers" imageRoot="/2021/march/images/speakers/" subpage="speakers" displayLearnMore="false" />}}
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="agenda" class="featured-section-row featured-section-row-light-bg" title="Agenda">}}
-  {{< events/agenda event="open-research-webinars" year="2021" >}}
+  {{< events/agenda event="march" year="2021" >}}
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="organizing-committee" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
@@ -55,3 +56,5 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 {{</ grid/div >}}
 {{</ grid/section-container >}}
+
+{{< bootstrap/modal id="eclipsefdn-modal-event-session" >}}

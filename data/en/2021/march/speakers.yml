@@ -29,30 +29,3 @@ items:
       Cédric studied for his PhD in Economics at the Sorbonne and holds a Master’s degree in Computer Science from the 
       University of Paris. He teaches business strategy in several master programs.</p>
     
-  - name: "Sebastian Scholze"
-    anchor: sebastian_scholze
-    title: "Senior Researcher (ATB)"
-    img: Sebastian_business.jpg
-    bio: |
-      <p>Sebastian Scholze studied Computer Science at the University of Bremen. Since 2000, he is working as 
-      scientific staff member at ATB. He is Involved in diverse CEC funded RTD projects since the 5th FP. 
-      Furthermore, he has long term project experience in several fields (e.g. Automotive, Manufacturing and 
-      Logistics). He has excellent IT skills in object oriented programming languages, development methodologies 
-      as well as in integration of complex software systems. Active in researching on context aware approaches 
-      and systems, object-based software models and methodologies for optimising the software development process 
-      for distributed, SOA and interoperable systems and web-based applications. He is working as project (e.g. 
-      Self-Learning, AsKoWi, EngineeringWiki) and local project manager (e.g. K-Net, EPES) in several EU and direct 
-      research projects. He was acting as coordinator of the FP7 Self-Learning project, H2020 U-Qasar project as 
-      well as technical director of the H2020 project SAFIRE. He has more than 40 publications on technical and 
-      research topics. He is currently acting as Coordinator of the H2020 projects ENCORE and SmartCLIDE.</p>
-
-  - name: "Alexandre Lefebvre"
-    anchor: alexandre_lefebvre
-    title: "Project Manager (UShareSoft)"
-    img: Alexandre_Lefebvre.jpg
-    bio: |
-      <p>Alexandre Lefebvre is project manager at UShareSoft. He has been involved
-      in professional services and development of UShareSoft software products since 
-      2013. Prior to joining UShareSoft, he had several management and research positions 
-      at Orange Labs in distributed middleware, and has been involved in several collaborative 
-      research projects. He represents UShareSoft in the ReachOut project.</p>
