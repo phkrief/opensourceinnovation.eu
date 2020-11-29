@@ -29,3 +29,14 @@ items:
       Cédric studied for his PhD in Economics at the Sorbonne and holds a Master’s degree in Computer Science from the 
       University of Paris. He teaches business strategy in several master programs.</p>
     
+  - name: "Virgile Prevosto"
+    anchor: virgile_prevosto
+    title: "Researcher (CEA List)"
+    img: Virgile_Prevosto.jpg
+    bio: |
+      <p>Virgile Prevosto is researcher at CEA List. He holds an Engineering degree from École Polytechnique and
+      a PhD in CS from Université Paris 6. After a post-doc at Max-Planck Institute for Informatics in Saarbrücken 
+      and a stay at Inria Rocquencourt, he joined CEA List in 2006, and has been since then a core developer of the 
+      Frama-C platform and acted as CEA's principal investigator for various collaborative projects, including the 
+      coordination of the French-German DEVICE-Soft and ANR U3CAT projects.</p>
+    

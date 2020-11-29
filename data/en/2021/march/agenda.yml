@@ -3,18 +3,18 @@ types:
 
 items:
     - name: "Introduction"
-      presenter: Cédric Thomas
+      presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
       type: session
-      time: 16:00 - 16:15 (CEST)
-    - name: "Research Project A to defined"
-      presenter: Presenter A
+      time: 16:00 - 16:15 (CET)
+    - name: "DECODER: DEveloper COmpanion for Documented and annotatEd code Reference"
+      presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
-      time: 16:15 - 16:35 (CEST)
-    - name: "Research Project B to defined"
+      time: 16:15 - 16:35 (CET)
+    - name: "Research Project B to define"
       presenter: Presenter B
       type: session
-      time: 16:35 - 16:55 (CEST)
+      time: 16:35 - 16:55 (CET)
     - name: "Wrap up"
-      presenter: Philippe Krief
+      presenter: <a href="speakers/#philippe_krief">Philippe Krief</a>
       type: session
-      time: 16:55 - 17:00 (CEST)
+      time: 16:55 - 17:00 (CET)
