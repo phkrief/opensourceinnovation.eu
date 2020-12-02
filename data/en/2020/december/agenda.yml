@@ -5,11 +5,11 @@ items:
     - name: "Open Research at Ow2 and the Eclipse Foundation"
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a> and <a href="speakers/#philippe_krief">Philippe Krief</a>
       type: session
-      time: 16:00 - 16:20 (CEST)
+      time: 16:00 - 16:20 (CET)
     - name: "SmartCLIDE project, The Stairway to Cloud"
       presenter: <a href="speakers/#sebastian_scholze">Sebastian Scholze</a>
       type: session
-      time: 16:20 - 16:40 (CEST)
+      time: 16:20 - 16:40 (CET)
       abstract: |
              <p>The main objective of SmartCLIDE is to propose a new smart cloud-native
              development environment, based on the coding-by-demonstration principle, that 
@@ -30,7 +30,7 @@ items:
     - name: "ReachOut, the Beta-Testing Platform for Collaborative Research Projects"
       presenter: <a href="speakers/#alexandre_lefebvre">Alexandre Lefebvre</a>
       type: session
-      time: 16:40 - 17:00 (CEST)
+      time: 16:40 - 17:00 (CET)
       abstract: |
              <p>ReachOut is an H2020 Coordination and Support Action (CSA), aiming at 
              helping research projects or European SMEs to develop connections with their 
