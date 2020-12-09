@@ -24,20 +24,20 @@ Through a selection of state-of-the-art project presentations and demonstrations
 {{</ grid/section-container >}}
 
 
-{{< grid/section-container id="organizing-committee" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
+{{< grid/section-container id="projects" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
 
 ## Presented Research Projects
 {{</ grid/section-container >}}
 
-{{< grid/section-container id="organizing-orgs" class="featured-section-row featured-section-row-lighter-bg text-center">}}
+{{< grid/section-container id="projects-logo" class="featured-section-row featured-section-row-lighter-bg text-center">}}
    {{< grid/div class="row" isMarkdown="false">}}
       {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-         [![SmartCLIDE](images/smartclide_logo.png)](http://smartclide.eu)
+[![SmartCLIDE](images/smartclide_logo.png)](http://smartclide.eu)
       {{</ grid/div >}}
       {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
       {{</ grid/div >}}
       {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-         [![ReachOut!](images/reachout_logo.png)](https://www.reachout-project.eu/)
+[![ReachOut!](images/reachout_logo.png)](https://www.reachout-project.eu/)
       {{</ grid/div >}}
    {{</ grid/div >}}
 {{</ grid/section-container >}}
