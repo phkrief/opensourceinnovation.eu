@@ -11,7 +11,7 @@ items:
       type: session
       time: 16:20 - 16:40 (CET)
       abstract: |
-             <p>The main objective of SmartCLIDE is to propose a new smart cloud-native
+             <p>The main objective of <a href="http://smartclide.eu" target="_blank">SmartCLIDE</a> is to propose a new smart cloud-native
              development environment, based on the coding-by-demonstration principle, that 
              will support creators of cloud services in the discovery, creation, composition, 
              testing, and deployment of full-stack data-centered services and applications in the cloud. <br/>
@@ -32,7 +32,7 @@ items:
       type: session
       time: 16:40 - 17:00 (CET)
       abstract: |
-             <p>ReachOut is an H2020 Coordination and Support Action (CSA), aiming at 
+             <p><a href="https://www.reachout-project.eu/" target="_blank">ReachOut</a> is an H2020 Coordination and Support Action (CSA), aiming at 
              helping research projects or European SMEs to develop connections with their 
              markets and potential end users. ReachOut provides a BetaCenter platform and 
              methodology to help projects create and implement their beta-testing campaigns, 
