@@ -37,7 +37,7 @@ Through a selection of state-of-the-art project presentations and demonstrations
       {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
       {{</ grid/div >}}
       {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-[![BaSys 4.2](images/basys_logo.png)](https://www.eclipse.org/basyx/)
+[![BaSyx](images/basyx_logo.png)](https://www.eclipse.org/basyx/)
       {{</ grid/div >}}
    {{</ grid/div >}}
 {{</ grid/section-container >}}
