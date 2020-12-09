@@ -10,8 +10,8 @@ items:
       presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
       time: 16:15 - 16:35 (CET)
-    - name: "Research Project B to define"
-      presenter: Presenter B
+    - name: "Making Industry 4.0 easy with Eclipse BaSyx"
+      presenter: <a href="speakers/#frank_schnicke">Frank Schnicke</a>
       type: session
       time: 16:35 - 16:55 (CET)
     - name: "Wrap up"

@@ -23,6 +23,25 @@ Through a selection of state-of-the-art project presentations and demonstrations
   {{</ events/registration >}}
 {{</ grid/section-container >}}
 
+
+{{< grid/section-container id="projects" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
+
+## Presented Projects
+{{</ grid/section-container >}}
+
+{{< grid/section-container id="projects-logo" class="featured-section-row featured-section-row-lighter-bg text-center">}}
+   {{< grid/div class="row" isMarkdown="false">}}
+      {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
+[![DECODER](images/decoder_logo.png)](https://www.decoder-project.eu)
+      {{</ grid/div >}}
+      {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
+      {{</ grid/div >}}
+      {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
+[![BaSys 4.2](images/basys_logo.png)](https://www.eclipse.org/basyx/)
+      {{</ grid/div >}}
+   {{</ grid/div >}}
+{{</ grid/section-container >}}
+
 {{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
   {{< events/user_display event="march" year="2021" title="Speakers" source="speakers" imageRoot="/2021/march/images/speakers/" subpage="speakers" displayLearnMore="false" />}}
 {{</ grid/section-container >}}
