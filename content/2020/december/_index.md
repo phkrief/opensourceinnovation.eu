@@ -26,7 +26,7 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 {{< grid/section-container id="projects" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
 
-## Presented Research Projects
+## Presented Projects
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="projects-logo" class="featured-section-row featured-section-row-lighter-bg text-center">}}
