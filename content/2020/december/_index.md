@@ -22,6 +22,34 @@ Join us for the launch of Open Research Webinars on Tuesday, December 15, 2020 a
 Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
   {{</ events/registration >}}
 {{</ grid/section-container >}}
+  
+  {{< grid/section-container id="projects" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
+  
+## Research Projects
+{{</ grid/section-container >}}
+
+{{< grid/section-container id="projects" class="featured-section-row featured-section-row-lighter-bg text-center">}}
+{{< grid/div class="row" isMarkdown="false">}}
+
+{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
+  
+  [![SmartCLIDE](images/smartclide_logo.png)](http://smartclide.eu)
+{{</ grid/div >}}
+
+{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
+  
+{{</ grid/div >}}
+ 
+
+{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
+  
+  [![ReachOut!](images/reachout_logo.png)](https://www.reachout-project.eu/)
+{{</ grid/div >}}
+
+{{</ grid/div >}}
+{{</ grid/section-container >}}
+  
+
 
 {{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
   {{< events/user_display event="december" year="2020" title="Speakers" source="speakers" imageRoot="/2020/december/images/speakers/" subpage="speakers" displayLearnMore="false" />}}
