@@ -29,6 +29,7 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 {{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
   {{< events/user_display event="december" year="2020" title="Speakers" source="speakers" imageRoot="/2020/december/images/speakers/" subpage="speakers" displayLearnMore="false" />}}
+<a href="../../speaker-guide">Speaker Guide<a>
 [Speaker Guide](../../speaker-guide)
 {{</ grid/section-container >}}
 
