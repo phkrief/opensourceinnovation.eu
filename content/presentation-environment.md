@@ -89,9 +89,9 @@ Investing in great lighting, like this simple ring light, can help make your pre
 {{< grid/section-container id="topics" class="featured-section-row featured-section-row-dark-bg text-center" isMarkdown="true">}}
 ## Contact Us 
 
-The **Eclipse SAM IoT 2020 conference** is co-organized by the **Eclipse Foundation** ([https://eclipse.org/research](https://eclipse.org/research)) and the **LINKS Foundation** ([http://linksfoundation.com](http://linksfoundation.com)) and is supported by the **BRAIN-IoT EU** project ([http://brain-iot.eu](http://brain-iot.eu)).  
+**Open Research Webinars** is co-organized by the **Eclipse Foundation** ([https://eclipse.org/research](https://eclipse.org/research)) and **OW2** ([https://www.ow2.org](https://www.ow2.org)).  
 
-If you have questions about the conference or the CFP, please contact [research@eclipse.org](mailto:research@eclipse.org).  
+If you have questions about the conference or the CFP, please contact info@opensourceinnovation.eu.  
 
-Conference Website: [https://events.eclipse.org/2020/sam-iot](https://events.eclipse.org/2020/sam-iot)
+Conference Website: [https://opensourceinnovation.eu/](https://opensourceinnovation.eu/)
 {{</ grid/section-container >}}
