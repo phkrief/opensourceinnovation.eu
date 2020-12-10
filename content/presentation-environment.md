@@ -95,22 +95,3 @@ If you have questions about the conference or the CFP, please contact [research@
 
 Conference Website: [https://events.eclipse.org/2020/sam-iot](https://events.eclipse.org/2020/sam-iot)
 {{</ grid/section-container >}}
-
-
-{{< grid/section-container id="organizing-orgs" class="featured-section-row featured-section-row-lighter-bg text-center">}}
-{{< grid/div class="row" isMarkdown="false">}}
-
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Eclipse Research](/2020/sam-iot/images/eclipse_logo.png)](http://eclipse.org/research)
-{{</ grid/div >}}
-
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Brain IoT](/2020/sam-iot/images/brain_iot_logo.png)](http://brain-iot.eu)
-{{</ grid/div >}}
-
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Linux Foundation](/2020/sam-iot/images/links_foundation_logo.png)](https://linksfoundation.com/)
-{{</ grid/div >}}
-
-{{</ grid/div >}}
-{{</ grid/section-container >}}
