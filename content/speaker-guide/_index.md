@@ -59,7 +59,7 @@ All authors whose papers are accepted will be asked to sign the Open Research We
 
 ### Presentation Template
 
-We've created a [cover page slide template](cover-page-template.pptx) for the webinar series. It is optional but we hope you will find it useful!   
+We've created a [cover page slide template](webinar_template.pptx) for the webinar series. It is optional but we hope you will find it useful!   
 
 
 {{</grid/section-container >}}
