@@ -9,6 +9,7 @@ hide_page_title: true
 hide_breadcrumb: true
 header_wrapper_class: "header-default-event"
 container: "container-fluid"
+layout: "single"
 ---
 {{< grid/section-container id="speakerguide" class="featured-section-row text-center" isMarkdown="true">}}
 **This series of webinars introduces software research projects that help shape the future of open source software and the IT industry.**
@@ -40,11 +41,11 @@ We are asking each speaker to sign up for a short session for an equipment and e
 
 ### Presentation Environment and Best Practices
 
-Presenting successfully to a virtual audience involves the right setup and lots of practice, even for experienced in-person speakers. The [Presentation Environment and Best Practices](../presentation-environment.html) document summarizes best practices and space recommendations that will help you deliver a dynamic and engaging talk.
+Presenting successfully to a virtual audience involves the right setup and lots of practice, even for experienced in-person speakers. The [Presentation Environment and Best Practices](presentation-environment/) document summarizes best practices and space recommendations that will help you deliver a dynamic and engaging talk.
 
 ### Equipment
 
-The [Presentation Environment and Best Practices](../presentation-environment.html) document contains our equipment recommendations, including specific items to purchase if you plan to upgrade your existing setup.   
+The [Presentation Environment and Best Practices](presentation-environment/) document contains our equipment recommendations, including specific items to purchase if you plan to upgrade your existing setup.   
 
 ### Pre-Recording  
 
