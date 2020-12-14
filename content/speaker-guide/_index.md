@@ -9,6 +9,7 @@ hide_page_title: true
 hide_breadcrumb: true
 header_wrapper_class: "header-default-event"
 container: "container-fluid"
+layout: "single"
 ---
 {{< grid/section-container id="speakerguide" class="featured-section-row text-center" isMarkdown="true">}}
 **This series of webinars introduces software research projects that help shape the future of open source software and the IT industry.**
@@ -20,7 +21,7 @@ As always, if you have questions, comments, or need help, email us at info@opens
 {{</ grid/section-container >}}
 
 
-{{< grid/section-container id="presenting-at-sam-iot" class="featured-section-row featured-section-row-dark-bg" isMarkdown="true">}}
+{{< grid/section-container id="presenting" class="featured-section-row featured-section-row-dark-bg" isMarkdown="true">}}
 ## Presenting in the Open Research Webinars  
 
 The Open Research Webinars will be presented on Zoom with the option of pre-recording your talk. Even if you pre-record your talk, you will need to plan to be online during the broadcast of your talk so that you can answer questions from attendees during the Q&A session at the end. You can [test Zoom here](https://zoom.us/test) if you don’t have access to an account.
@@ -40,11 +41,11 @@ We are asking each speaker to sign up for a short session for an equipment and e
 
 ### Presentation Environment and Best Practices
 
-Presenting successfully to a virtual audience involves the right setup and lots of practice, even for experienced in-person speakers. The [Presentation Environment and Best Practices](https://events.eclipse.org/2020/sam-iot/presentation-environment/) document summarizes best practices and space recommendations that will help you deliver a dynamic and engaging talk.
+Presenting successfully to a virtual audience involves the right setup and lots of practice, even for experienced in-person speakers. The [Presentation Environment and Best Practices](presentation-environment/) document summarizes best practices and space recommendations that will help you deliver a dynamic and engaging talk.
 
 ### Equipment
 
-The [Presentation Environment and Best Practices](https://events.eclipse.org/2020/sam-iot/presentation-environment/) document contains our equipment recommendations, including specific items to purchase if you plan to upgrade your existing setup.   
+The [Presentation Environment and Best Practices](presentation-environment/) document contains our equipment recommendations, including specific items to purchase if you plan to upgrade your existing setup.   
 
 ### Pre-Recording  
 
@@ -55,11 +56,11 @@ You can use Zoom to record your talk. This [support article](https://support.zoo
 
 ### Speaker Agreement
 
-All authors whose papers are accepted will be asked to sign the Open Research Webinars speaker agreement. If you have not yet signed the speaker agreement please contact [info@opensourceinnovation.eu](mailto:info@opensourceinnovation.eu).  
+All authors whose papers are accepted will be asked to sign the Open Research Webinars speaker agreement. If you have not yet signed the speaker agreement please contact info@opensourceinnovation.eu.  
 
 ### Presentation Template
 
-We've created a [cover page slide template](cover-page-template.pptx) for the webinar series. It is optional but we hope you will find it useful!   
+We've created a [cover page slide template](webinar_template.pptx) for the webinar series. It is optional but we hope you will find it useful!   
 
 
 {{</grid/section-container >}}
@@ -70,26 +71,7 @@ We've created a [cover page slide template](cover-page-template.pptx) for the we
 
 **Open Research Webinars** is co-organized by the **Eclipse Foundation** ([https://eclipse.org/research](https://eclipse.org/research)) and **OW2** ([https://www.ow2.org](https://www.ow2.org)).  
 
-If you have questions about the conference or the CFP, please contact [info@opensourceinnovation.eu](mailto:info@opensourceinnovation.eu).  
+If you have questions about the conference or the CFP, please contact info@opensourceinnovation.eu.  
 
 Conference Website: [https://opensourceinnovation.eu/](https://opensourceinnovation.eu/)
-{{</ grid/section-container >}}
-
-
-{{< grid/section-container id="organizing-orgs" class="featured-section-row featured-section-row-lighter-bg text-center">}}
-{{< grid/div class="row" isMarkdown="false">}}
-
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Eclipse Research](/2020/sam-iot/images/eclipse_logo.png)](http://eclipse.org/research)
-{{</ grid/div >}}
-
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Brain IoT](/2020/sam-iot/images/brain_iot_logo.png)](http://brain-iot.eu)
-{{</ grid/div >}}
-
-{{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Linux Foundation](/2020/sam-iot/images/links_foundation_logo.png)](https://linksfoundation.com/)
-{{</ grid/div >}}
-
-{{</ grid/div >}}
 {{</ grid/section-container >}}
