@@ -5,14 +5,12 @@ items:
     - name: "Open Research at Ow2 and the Eclipse Foundation"
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a> and <a href="speakers/#philippe_krief">Philippe Krief</a>
       type: session
-      time: 16:00 - 16:20 (CET)
       vod: https://youtu.be/w1w5158KTyg
       slides: presentations/2020-12-15-OpenResearchWebinar.pdf
 
     - name: "SmartCLIDE project, The Stairway to Cloud"
       presenter: <a href="speakers/#sebastian_scholze">Sebastian Scholze</a>
       type: session
-      time: 16:20 - 16:40 (CET)
       vod: https://youtu.be/w1w5158KTyg?t=424
       slides: presentations/2020-12-15-ORW-SmartCLIDE.pdf
       abstract: |
@@ -36,7 +34,6 @@ items:
     - name: "ReachOut, the Beta-Testing Platform for Collaborative Research Projects"
       presenter: <a href="speakers/#alexandre_lefebvre">Alexandre Lefebvre</a>
       type: session
-      time: 16:40 - 17:00 (CET)
       vod: https://youtu.be/w1w5158KTyg?t=1590
       slides: presentations/2020-12-15-ORW-ReachOut.pdf
       abstract: |
