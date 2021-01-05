@@ -10,6 +10,19 @@ items:
       presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
       time: 16:15 - 16:35 (CET)
+      abstract: |
+           <p>This talk will present the main results of the <a href= "https://www.decoder-project.eu">DECODER H2020 project</a>.
+           The main goal of the project is to offer a unified platform (the PKM, Persistent Knowledge Monitor)
+           for hosting all kinds of documents related to a given software project,
+           including source code, manuals, bug reports. A variety of tools are
+           interacting with the PKM to fill it with additional information and/or
+           take advantage of information provided by other tools. This includes
+           notably the results of static analyses, program proofs, and test case
+           generation on the one hand, and the extraction of more formal
+           specifications from natural language documents using natural language
+           processing techniques. Two years after its start, DECODER is finalizing
+           the first prototypes of its main tools and aims at polishing its API for
+           easier integration with external tools such as IDEs.</p>
     - name: "Making Industry 4.0 easy with Eclipse BaSyx"
       presenter: <a href="speakers/#frank_schnicke">Frank Schnicke</a>
       type: session
