@@ -25,8 +25,8 @@ Through a selection of state-of-the-art project presentations and demonstrations
 {{< grid/section-container id="about" class="featured-section-row featured-section-row-lighter-bg" >}}
 {{< grid/section-container class="featured-section-row text-center">}}
 <h2>Presented projects<h2>
-<a href=""><img src="2020/december/images/smartclide-squared-aligned.png" width="100 alt="SmartCLIDE"></a>
-<a href=""><img src="2020/december/images/reachout-squared-aligned.png" width="100" alt="ReachOut!"></a>
+<a href=""><img src="2020/december/images/smartclide-squared-aligned.png" width="200" alt="SmartCLIDE"></a>
+<a href=""><img src="2020/december/images/reachout-squared-aligned.png" width="200" alt="ReachOut!"></a>
 
 {{</ grid/section-container >}}
 {{</ grid/section-container >}}
