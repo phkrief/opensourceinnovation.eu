@@ -6,7 +6,7 @@ items:
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
       type: session
       time: 16:00 - 16:15 (CET)
-    - name: "DECODER: DEveloper COmpanion for Documented and annotatEd code Reference"
+    - name: "DECODER: a new DevOps toolbox for code exploration and analysis"
       presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
       time: 16:15 - 16:35 (CET)
