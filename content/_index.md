@@ -21,4 +21,14 @@ Through a selection of state-of-the-art project presentations and demonstrations
 
 {{< active-events >}}
 
+
+{{< grid/section-container id="about" class="featured-section-row featured-section-row-lighter-bg" >}}
+{{< grid/section-container class="featured-section-row text-center">}}
+<h2>Presented projects<h2>
+<a href=""><img src="images/smartclide-squared-aligned.png" width="100 alt="SmartCLIDE"></a>
+<a href=""><img src="images/reachout-squared-aligned.png" width="100" alt="ReachOut!"></a>
+
+{{</ grid/section-container >}}
+{{</ grid/section-container >}}
+
 {{< past_events >}}
