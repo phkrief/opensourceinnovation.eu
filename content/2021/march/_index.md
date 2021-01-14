@@ -2,7 +2,7 @@
 title: "Open Research Webinars"
 headline: "Open Research Webinars"
 subtitle: "Open collaboration in European research projects"
-tagline: "Tuesday, March 4, 2021, 16:00-17:00 CET"
+tagline: "Next event: Tuesday, March 4, 2021, 16:00-17:00 CET"
 date: 2021-03-04T16:00:00+02:00
 hide_page_title: true
 hide_sidebar: true
@@ -17,11 +17,11 @@ layout: single
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}
   {{< events/registration event="march" year="2021" title="About the Event" >}} 
 
-Join us for the launch of Open Research Webinars on Thursday, March 4, 2021 at 16:00 CET. 
+Join us for our next Open Research Webinars on Thursday, March 4, 2021 at 16:00 CET. 
 
 Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
 
-### Presented Projects
+### Presentations
 [![DECODER](images/decoder_logo.png)](https://www.decoder-project.eu) --- [![BaSyx](images/basyx_logo.png)](https://www.eclipse.org/basyx/)
 
   {{</ events/registration >}}

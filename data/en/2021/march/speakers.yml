@@ -1,18 +1,17 @@
 items:
     
-  - name: "Philippe Krief"
-    anchor: philippe_krief
-    title: "Research Relations Director (Eclipse Foundation)"
-    img: 2020-11-PK-ID.jpg
+  - name: "Marco Jahn"
+    anchor: marco_jahn
+    title: "Research Project Manager (Eclipse Foundation)"
+    img: Marco_300.jpg
     bio: |
-      <p>Philippe Krief is the Research Relations Director of the Eclipse Foundation. He is a project 
-      leader, expert in object-oriented design, embedded development, development tools, and Agile-Scrum 
-      development process. He received his Ph.D. in Computer Science from University Paris 8, France in 1990.<br/>
-      He has a passion for Eclipse since its beginning, early 2000 when he was involved in the early versions 
-      of the Eclipse platform. Before joining the Eclipse Foundation staff, he worked 18 years for IBM as Senior 
-      Architect, CALM evangelist, and R&D Development Manager.<br/>
-      Today, Philippe is supervising 8 European research projects (H2020, ITEA3 & ECSEL), mainly for dissemination, 
-      community building, and open-source best practices tasks.</p>
+      <p>Marco Jahn is research project manager at the Eclipse Foundation. He obtained his diploma in computer 
+      science from Ulm University in 2006 and his PhD from RWTH Aachen in 2016. He worked as software developer 
+      at denkwerk GmbH before moving to Fraunhofer FIT. There, he has been working as researcher and project 
+      manager in various European research projects in the areas of IoT and Smart Cities. Furthermore, he led 
+      the IoT Platforms team and coordinated the IoT Large-Scale Pilot Project MONICA. He joined the Eclipse 
+      Foundation in 2019 where he participates in the foundation’s research activities, helping to turn innovations 
+      into successful open source projects.</p>
     
   - name: "Cédric Thomas"
     anchor: cedric_thomas
@@ -46,5 +45,7 @@ items:
     title: "Project Manager (Fraunhofer IESE)"
     img: frank_schnicke.jpg
     bio: |
-      <p>TBC</p>
+      <p>Frank Schnicke is project manager at the Fraunhofer Institute for Experimental Software Engineering IESE. 
+      His research focuses on Industry 4.0 software architectures that enable changeability in industrial plants. 
+      Additionally, he is coordinating the implementation of the Eclipse BaSyx reference implementation.</p>
     
