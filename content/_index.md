@@ -27,8 +27,8 @@ Through a selection of state-of-the-art project presentations and demonstrations
 <h2>Presented projects<h2>
 <a href="2020/december"><img src="2020/december/images/smartclide-squared-aligned.png" width="200" alt="SmartCLIDE"></a>
 <a href="2020/december"><img src="2020/december/images/reachout-squared-aligned.png" width="200" alt="ReachOut!"></a>
-<a href="2021/march"><img src="2021/march/images/decoder-squared-aligned.png" width="200" alt="DECODER"></a>
-<a href="2021/march"><img src="2021/march/images/basyx-squared-aligned.png" width="200" alt="BaSyx"></a>
+<!-- <a href="2021/march"><img src="2021/march/images/decoder-squared-aligned.png" width="200" alt="DECODER"></a>
+<a href="2021/march"><img src="2021/march/images/basyx-squared-aligned.png" width="200" alt="BaSyx"></a> -->
 
 {{</ grid/section-container >}}
 {{</ grid/section-container >}}
