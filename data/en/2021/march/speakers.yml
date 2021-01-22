@@ -43,7 +43,7 @@ items:
   - name: "Antonio Kung"
     anchor: antonio_kung
     title: "Chief Executive Officer (Trialog)"
-    img: antonio-kung-300.png
+    img: antonio-kung-300.jpg
     bio: |
       <p>Antonio Kung is co-founder of Trialog. With more than 30 years of experience in the field of cyber physical 
       systems and the Internet of Things, he brings expertise and know-how particularly on architecture, interoperability 
@@ -51,4 +51,17 @@ items:
       in these fields. He is active in standardisation on the Internet of Things, security and data protection, and the 
       editor of ISO/IEC standards 27550, 27556, 27030, 27570, 21823-3. He became CEO of Trialog in 2018. Antonio has a 
       master degree from Harvard university and an engineering degree from Ecole centrale Paris.</p>
+    
+  - name: "Yod Samuel Martín"
+    anchor: yod_samuel_martin
+    title: "Researcher (Universidad Politécnica de Madrid)"
+    img: samuel-martin-300.jpg
+    bio: |
+      <p>Yod Samuel Martín is a Researcher at Universidad Politécnica de Madrid (UPM). His research work focuses on 
+      different categories of non-functional software and service requirements, especially on the categories of 
+      accessibility and privacy, understood from different points of view. Yod-Samuel is currently the Scientific 
+      and Technical Lead of the H2020 project PDP4E, and has also participated in other EU-funded projects, as well 
+      as in national and private research projects. The results from his research have been applied, in collaboration 
+      with private companies, to fields like telecommunications, banking and financial services, social networks, 
+      transportation, etc.</p>
     

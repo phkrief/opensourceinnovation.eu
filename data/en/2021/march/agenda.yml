@@ -24,7 +24,7 @@ items:
            the first prototypes of its main tools and aims at polishing its API for
            easier integration with external tools such as IDEs.</p>
     - name: "PDP4E: From engineering methods and tools for privacy compliance to a community of open models"
-      presenter: <a href="speakers/#antonio_kung">Antonio Kung</a>
+      presenter: <a href="speakers/#antonio_kung">Antonio Kung</a>, <a href="speakers/#yod_samuel_martin">Yod Samuel Martín</a>
       type: session
       time: 16:35 - 16:55 (CET)
       abstract: |
