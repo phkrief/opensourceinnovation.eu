@@ -22,7 +22,7 @@ Join us for our next Open Research Webinars on Thursday, March 4, 2021 at 16:00 
 Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
 
 ### Presentations
-[![DECODER](images/decoder-squared-aligned.png)](https://www.decoder-project.eu) --- [![BaSyx](images/basyx-squared-aligned.png)](https://www.eclipse.org/basyx/)
+[![DECODER](images/decoder-squared-aligned.png)](https://www.decoder-project.eu) [![PDP4E](images/pdp4e-squared-aligned.png)](https://www.pdp4e-project.eu/)
 
   {{</ events/registration >}}
 {{</ grid/section-container >}}
