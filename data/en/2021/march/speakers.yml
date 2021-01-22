@@ -15,7 +15,7 @@ items:
     
   - name: "Cédric Thomas"
     anchor: cedric_thomas
-    title: "CEO (OW2)"
+    title: "Chief Executive Officer (OW2)"
     img: cedric-thomas.320x320px.jpg
     bio: |
       <p>Cedric Thomas is OW2 CEO. An IT industry veteran with twenty-five years of experience in strategic and 
@@ -40,12 +40,15 @@ items:
       coordination of the French-German DEVICE-Soft and ANR U3CAT projects.</p>
     
     
-  - name: "Frank Schnicke"
-    anchor: frank_schnicke
-    title: "Project Manager (Fraunhofer IESE)"
-    img: frank_schnicke.jpg
+  - name: "Antonio Kung"
+    anchor: antonio_kung
+    title: "Chief Executive Officer (Trialog)"
+    img: antonio-kung-300.png
     bio: |
-      <p>Frank Schnicke is project manager at the Fraunhofer Institute for Experimental Software Engineering IESE. 
-      His research focuses on Industry 4.0 software architectures that enable changeability in industrial plants. 
-      Additionally, he is coordinating the implementation of the Eclipse BaSyx reference implementation.</p>
+      <p>Antonio Kung is co-founder of Trialog. With more than 30 years of experience in the field of cyber physical 
+      systems and the Internet of Things, he brings expertise and know-how particularly on architecture, interoperability 
+      or data security and protection. He was the coordinator of numerous national and European collaborative projects 
+      in these fields. He is active in standardisation on the Internet of Things, security and data protection, and the 
+      editor of ISO/IEC standards 27550, 27556, 27030, 27570, 21823-3. He became CEO of Trialog in 2018. Antonio has a 
+      master degree from Harvard university and an engineering degree from Ecole centrale Paris.</p>
     
