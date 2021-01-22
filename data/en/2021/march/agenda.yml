@@ -23,7 +23,7 @@ items:
            processing techniques. Two years after its start, DECODER is finalizing
            the first prototypes of its main tools and aims at polishing its API for
            easier integration with external tools such as IDEs.</p>
-    - name: "From engineering methods and tools for privacy compliance to a community of open models"
+    - name: "PDP4E: From engineering methods and tools for privacy compliance to a community of open models"
       presenter: <a href="speakers/#antonio_kung">Antonio Kung</a>
       type: session
       time: 16:35 - 16:55 (CET)
