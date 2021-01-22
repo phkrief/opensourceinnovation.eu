@@ -6,7 +6,7 @@ items:
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
       type: session
       time: 16:00 - 16:15 (CET)
-    - name: "DECODER: DEveloper COmpanion for Documented and annotatEd code Reference"
+    - name: "DECODER: a new DevOps toolbox for code exploration and analysis"
       presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
       time: 16:15 - 16:35 (CET)
@@ -23,11 +23,18 @@ items:
            processing techniques. Two years after its start, DECODER is finalizing
            the first prototypes of its main tools and aims at polishing its API for
            easier integration with external tools such as IDEs.</p>
-    - name: "Making Industry 4.0 easy with Eclipse BaSyx"
-      presenter: <a href="speakers/#frank_schnicke">Frank Schnicke</a>
+    - name: "PDP4E: From engineering methods and tools for privacy compliance to a community of open models"
+      presenter: <a href="speakers/#antonio_kung">Antonio Kung</a>, <a href="speakers/#yod_samuel_martin">Yod Samuel Martín</a>
       type: session
       time: 16:35 - 16:55 (CET)
+      abstract: |
+           <p>The <a href="https://www.pdp4e-project.eu/">PDP4E H2020 project</a> has focused on is defining methods and software tools for
+           privacy engineering based on models, including risk management, privacy requirements 
+           engineering, privacy aware design and privacy assurance. This webinar will show how one 
+           can engineer a complete set of privacy protection models taking into account existing privacy 
+           frameworks. It will describe two examples, connected vehicles and smart grid data exchange. 
+           It will then present an initiative to create an privacy engineering open model community.</p>
     - name: "Wrap up"
-      presenter: <a href="speakers/#philippe_krief">Philippe Krief</a>
+      presenter: <a href="speakers/#marco_jahn">Marco Jahn</a>
       type: session
       time: 16:55 - 17:00 (CET)
