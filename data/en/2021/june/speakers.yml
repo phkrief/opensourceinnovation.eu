@@ -28,4 +28,14 @@ items:
       the IoT Platforms team and coordinated the IoT Large-Scale Pilot Project MONICA. He joined the Eclipse 
       Foundation in 2019 where he participates in the foundation’s research activities, helping to turn innovations 
       into successful open source projects.</p>
+
+  - name: "Frank Schnicke"
+    anchor: frank_schnicke
+    title: "Project Manager (Fraunhofer)"
+    img: frank_schnicke.jpg
+    bio: |
+      <p>Frank Schnicke is project manager at the Fraunhofer Institute for Experimental Software Engineering IESE. 
+      His research focuses on Industry 4.0 software architectures that enable changeability in industrial plants. 
+      Additionally, he is coordinating the implementation of the Eclipse BaSyx reference implementation.</p>
+
     
