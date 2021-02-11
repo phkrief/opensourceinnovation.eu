@@ -20,7 +20,7 @@ Join us for our next Open Research Webinars on Tuesday, June 1, 2021 at 16:00 CE
 
 Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
 
-### Presentations
+### Presentations   
 [![BaSyx](images/basyx-squared-aligned.png)](https://www.eclipse.org/basyx) [![Fasten](images/fasten-squared-aligned.png)](https://www.fasten-project.eu/)
 
 {{</ grid/section-container >}}
