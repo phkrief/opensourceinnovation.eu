@@ -15,7 +15,7 @@ layout: single
 ---
 
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}
-  {{< events/registration event="march" year="2021" title="About the Event" >}} 
+  {{< events/registration event="june" year="2021" title="About the Event" >}} 
 
 Join us for our next Open Research Webinars on Tuesday, June 1, 2021 at 16:00 CET. 
 
