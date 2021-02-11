@@ -23,7 +23,6 @@ Through a selection of state-of-the-art project presentations and demonstrations
 ### Presentations
 [![BaSyx](images/basyx-squared-aligned.png)](https://www.eclipse.org/basyx) [![Fasten](images/fasten-squared-aligned.png)](https://www.fasten-project.eu/)
 
-  {{</ events/registration >}}
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
