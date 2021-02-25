@@ -6,7 +6,7 @@ items:
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
       type: session
       time: 16:00 - 16:15 (CET)
-    - name: "DECODER: a new DevOps toolbox for code exploration and analysis"
+    - name: "DECODER: a new DevOps toolbox for software code exploration and analysis"
       presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
       time: 16:15 - 16:35 (CET)
@@ -33,7 +33,7 @@ items:
            engineering, privacy aware design and privacy assurance. This webinar will show how one 
            can engineer a complete set of privacy protection models taking into account existing privacy 
            frameworks. It will describe two examples, connected vehicles and smart grid data exchange. 
-           It will then present an initiative to create an privacy engineering open model community.</p>
+           It will then present an initiative to create an privacy engineering open model community.   </p>
     - name: "Wrap up"
       presenter: <a href="speakers/#philippe_krief">Philippe Krief</a>
       type: session

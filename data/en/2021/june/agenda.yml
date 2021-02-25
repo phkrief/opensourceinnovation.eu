@@ -1,0 +1,24 @@
+complete: false
+types:
+
+items:
+    - name: "Introduction"
+      presenter: <a href="speakers/#marco_jahn">Marco Jahn</a>
+      type: session
+      time: 16:00 - 16:15 (CET)
+    - name: "BaSyx: Making Industry 4.0 easy with Eclipse BaSyx"
+      presenter: <a href="speakers/#frank_schnicke">Frank Schnicke</a>
+      type: session
+      time: 16:15 - 16:35 (CET)
+      abstract: |
+           <p>TBC</p>
+    - name: "FASTEN"
+      presenter: <a href="speakers/#">TBD</a>
+      type: session
+      time: 16:35 - 16:55 (CET)
+      abstract: |
+           <p>TBC</p>
+    - name: "Wrap up"
+      presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
+      type: session
+      time: 16:55 - 17:00 (CET)
