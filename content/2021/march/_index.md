@@ -2,7 +2,7 @@
 title: "Open Research Webinars"
 headline: "Open Research Webinars"
 subtitle: "Open collaboration in European research projects"
-tagline: "Next event: Tuesday, March 4, 2021, 16:00-17:00 CET"
+tagline: "Next event: Thursday, March 4, 2021, 16:00-17:00 CET"
 date: 2021-03-04T16:00:00+02:00
 hide_page_title: true
 hide_sidebar: true
