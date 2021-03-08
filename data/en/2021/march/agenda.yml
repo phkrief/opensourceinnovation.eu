@@ -5,13 +5,13 @@ items:
     - name: "Introduction"
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
       type: session
-      vod: https://youtu.be/w1w5158KTyg
+      vod: https://youtu.be/-Q5_N5mE3RY
       slides: presentations/2021-03-04-OpenResearchWebinar.pdf
 
     - name: "DECODER: a new DevOps toolbox for software code exploration and analysis"
       presenter: <a href="speakers/#virgile_prevosto">Virgile Prevosto</a>
       type: session
-      vod: https://youtu.be/w1w5158KTyg
+      vod: https://www.youtube.com/watch?v=-Q5_N5mE3RY&t=468s
       slides: presentations/2021-03-04-ORW-DECODER.pdf
       abstract: |
            <p>This talk will present the main results of the <a href= "https://www.decoder-project.eu">DECODER H2020 project</a>.
@@ -30,7 +30,7 @@ items:
     - name: "PDP4E: From engineering methods and tools for privacy compliance to a community of open models"
       presenter: <a href="speakers/#antonio_kung">Antonio Kung</a>, <a href="speakers/#yod_samuel_martin">Yod Samuel Martín</a>
       type: session
-      vod: https://youtu.be/w1w5158KTyg
+      vod: https://www.youtube.com/watch?v=-Q5_N5mE3RY&t=1485s
       slides: presentations/2021-03-04-ORW-PDP4E.pdf
       abstract: |
            <p>The <a href="https://www.pdp4e-project.eu/">PDP4E H2020 project</a> has focused on is defining methods and software tools for
