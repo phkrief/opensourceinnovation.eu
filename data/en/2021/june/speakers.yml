@@ -38,4 +38,11 @@ items:
       His research focuses on Industry 4.0 software architectures that enable changeability in industrial plants. 
       Additionally, he is coordinating the implementation of the Eclipse BaSyx reference implementation.</p>
 
+  - name: "Sebastian Proksch"
+    anchor: sebastian_proksch
+    title: "Assistant Professor (Delft University of Technology)"
+    img: sebastian_proksch.jpg
+    bio: |
+      <p></p>
+
     
