@@ -10,7 +10,7 @@ header_wrapper_class: "header-default-event header-open-research-europe-event"
 hide_breadcrumb: true
 container: container-fluid
 summary: "Open Research Webinars is a series presenting software research projects that are helping to shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs."
-links: [[href: "#speakers", text: Speakers], [href: "#agenda", text: Agenda]]
+links: [[href: "#speakers", text: Speakers], [href: "#agenda", text: Agenda], [href: "https://www.eventbrite.fr/e/open-research-webinars-june-1-tickets-147975955065", text: "Register"]]
 layout: single
 ---
 
@@ -22,7 +22,7 @@ Join us for our next Open Research Webinars on Tuesday, June 1, 2021 at 16:00 CE
 Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
 
 ### Presentations   
-[![BaSyx](images/basyx-squared-aligned.png)](https://www.eclipse.org/basyx) [![Fasten](images/fasten-squared-aligned.png)](https://www.fasten-project.eu/)
+[![BaSyx](images/basyx.png)](https://www.eclipse.org/basyx) [![Fasten](images/fasten-squared-aligned.png)](https://www.fasten-project.eu/)
 
    {{</ events/registration >}}
 {{</ grid/section-container >}}
