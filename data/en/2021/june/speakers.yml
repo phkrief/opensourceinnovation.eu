@@ -45,6 +45,13 @@ items:
     title: "Assistant Professor (Delft University of Technology)"
     img: sebastian_proksch.jpg
     bio: |
-      <p></p>
+      <p>Sebastian Proksch is a researcher interested in demystifying the software development process, both from 
+      the perspective of individuals and of teams. He studies the impact of novel technologies and envisions 
+      new tools to support software engineers in their day to day tasks. His most recent works in the CI/CD area 
+      have created tools that facilitate the adoption of CI/CD and help developers to spot anti-patterns in their 
+      build pipelines. Sebastian Proksch is Assistant Professor in the Software Engineering Research Group at Delft 
+      University of Technology (Netherlands) and the scientific coordinator of the FASTEN project. Before, he was a 
+      post-doctoral researcher with Prof. Harald Gall at the University of Zurich (Switzerland) and did his PhD with 
+      Prof. Mira Mezini at TU Darmstadt (Germany).</p>
 
     
