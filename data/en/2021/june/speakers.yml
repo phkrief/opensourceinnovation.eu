@@ -31,12 +31,14 @@ items:
 
   - name: "Frank Schnicke"
     anchor: frank_schnicke
-    title: "Project Manager (Fraunhofer)"
+    title: "Expert \"Industrie 4.0 System Architectures\" (Fraunhofer)"
     img: frank_schnicke.jpg
     bio: |
-      <p>Frank Schnicke is project manager at the Fraunhofer Institute for Experimental Software Engineering IESE. 
-      His research focuses on Industry 4.0 software architectures that enable changeability in industrial plants. 
-      Additionally, he is coordinating the implementation of the Eclipse BaSyx reference implementation.</p>
+      <p>As Expert "Industrie 4.0 System Architectures" at Fraunhofer IESE, Frank Schnicke advises manufacturing
+      companies and supports them in the successful implementation of Industrie 4.0. His research focus is on 
+      software and system architectures that enable changeable production.
+      In addition, he coordinates the implementation of the Eclipse BaSyx reference implementation, which realizes 
+      central Industrie 4.0 concepts and thus enables a fast entry into the world of Industrie 4.0.</p>
 
   - name: "Sebastian Proksch"
     anchor: sebastian_proksch
