@@ -6,10 +6,12 @@ items:
       presenter: <a href="speakers/#marco_jahn">Marco Jahn</a>
       type: session
       vod: https://youtu.be/aifqpieashk
+      slides: presentations/2021-06-01_Intro.pdf
     - name: "BaSyx: Making Industry 4.0 easy with Eclipse BaSyx"
       presenter: <a href="speakers/#frank_schnicke">Frank Schnicke</a>
       type: session
       vod: https://youtu.be/aifqpieashk?t=428
+      slides: presentations/2021-06-01_BaSyx.pdf
       abstract: |
            <p>Implementing Industry 4.0 and Digital Twins is not an easy task. There are a lot of different concepts 
            and standards that need to be considered for a successful implementation. For tackling this challenge, 
@@ -25,6 +27,7 @@ items:
       presenter: <a href="speakers/#sebastian_proksch">Sebastian Proksch</a>
       type: session
       vod: https://youtu.be/aifqpieashk?t=1749
+      slides: presentations/2021-06-01_FASTEN.pdf
       abstract: |
            <p>The FASTEN project is developing an intelligent software package management system that will enhance 
            robustness and security in software ecosystems. FASTEN addresses the operational and compliance risks 
