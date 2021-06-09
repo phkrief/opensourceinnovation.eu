@@ -25,10 +25,12 @@ Through a selection of state-of-the-art project presentations and demonstrations
 {{< grid/section-container id="about" class="featured-section-row featured-section-row-lighter-bg" >}}
 {{< grid/section-container class="featured-section-row text-center">}}
 <h2>Presented projects<h2>
-<a href="2020/december"><img src="2020/december/images/smartclide-squared-aligned.png" width="200" alt="SmartCLIDE"></a>
-<a href="2020/december"><img src="2020/december/images/reachout-squared-aligned.png" width="200" alt="ReachOut!"></a>
+<a href="2021/june"><img src="2021/june/images/basyx.png" width="200" alt="BaSyx"></a>
+<a href="2021/june"><img src="2021/june/images/fasten-squared-aligned.png" width="200" alt="FASTEN"></a>
 <a href="2021/march"><img src="2021/march/images/decoder-squared-aligned.png" width="200" alt="DECODER"></a>
 <a href="2021/march"><img src="2021/march/images/pdp4e-squared-aligned.png" width="200" alt="PDP4E"></a>
+<a href="2020/december"><img src="2020/december/images/smartclide-squared-aligned.png" width="200" alt="SmartCLIDE"></a>
+<a href="2020/december"><img src="2020/december/images/reachout-squared-aligned.png" width="200" alt="ReachOut!"></a>
 
 {{</ grid/section-container >}}
 {{</ grid/section-container >}}

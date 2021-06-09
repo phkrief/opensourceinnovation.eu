@@ -4,7 +4,7 @@
 {{$events := (index $langBase).conferences.items}}
 {{ $past_events := slice }}
 
-{{ range (sort $events "date" "asc")}}
+{{ range (sort $events "date" "desc")}}
 {{$t := time .end_date }}
 {{ if $t.Before now }}
   {{ $past_events = $past_events | append . }}
