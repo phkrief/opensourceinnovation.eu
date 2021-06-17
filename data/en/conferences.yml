@@ -3,7 +3,7 @@ items:
   -
     name: Open Research Webinars
     location: Location, Location
-    date: December 15, 2020
+    date: 2020-12-15
     end_date: 2020-12-16T00:00:00-00:00
     url: /2020/december
     # logo_white: /images/jakartaone_livestream_wht_full-06.svg
@@ -12,7 +12,7 @@ items:
   -
     name: Open Research Webinars
     location: Location, Location
-    date: March 4, 2021
+    date: 2021-03-04
     end_date: 2021-03-05T00:00:00-00:00
     url: /2021/march
     # logo_white: /images/jakartaone_livestream_wht_full-06.svg
@@ -21,7 +21,7 @@ items:
   -
     name: Open Research Webinars
     location: Location, Location
-    date: June 1, 2021
+    date: 2021-06-01
     end_date: 2021-06-02T00:00:00-00:00
     url: /2021/june
     # logo_white: /images/jakartaone_livestream_wht_full-06.svg
